@@ -1,0 +1,17 @@
+BARTER SYSTEM APP
+
+ 1.Sender
+ 2. Reciver
+
+1.Sender -> 1. login and sign up 
+            2. serch bar
+            3. a way to see who wants the item that he wants to exchange
+            4. a way to contact the reciver
+            5. a way to see reciever profile
+            6. a way to showcase the details of the item
+
+2.Reciever -> 1. a way to see what he/she wants
+              2. a way to give all neccessary details to built a profile
+              3. a way to see sender profile
+              4. search bar
+              5. a way to check the current condition of object that is exhanged
